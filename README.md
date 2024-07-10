@@ -1,7 +1,6 @@
 <div align= "center">
     </div>
-    <div style="text-align:left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요🙂 향긋한 에스프레소 같은 개발자, 김형민입니다. </h2>  
+    <div style="text-align:left;">   
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  </div> 
     </div>
     <div style="text-align:left;"> 
