@@ -34,7 +34,7 @@
     </div>
     <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khmgobe&show_icons=true&theme=radical)
+![khmgobe's GitHub stats](https://github-readme-stats.vercel.app/api?username=khmgobe&show_icons=true&theme=radical)
     
     
     
