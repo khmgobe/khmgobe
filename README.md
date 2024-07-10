@@ -1,11 +1,12 @@
 <div align= "center">
     </div>
     <div style="text-align:left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요🙂  향긋한 에스프레소 같은 개발자, 김형민입니다. </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요🙂 향긋한 에스프레소 같은 개발자, 김형민입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  </div> 
     </div>
     <div style="text-align:left;"> 
-    <h5 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 누구든, 무엇이든, 배우고 가꿔나갈 장점은 어디에나 있다고 생각합니다. <br> 코드적인 요소에서의 향미를 중요하게 생각하여 코드 품질을 향상시키기 위해 노력합니다. <br> 기술에 대한 것이면 무엇이든 궁금함을 가지며 매일매일 즐겁게 알아가며 살아가고 있습니다.<br> 주로 백엔드 기술들에 대한 관심이 높으며 다른 사람들과 의견을 함께 나누며 성장하는 것을 좋아합니다. <br> </h5>  
+        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💡 자기소개 </h2> 
+    <h5 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 무엇이든 바꾸고 배우고 채워나간다면, 계속해서 꾸준히 성장할 수 있다고 생각합니다. <br> 기술에 대한 것이면 무엇이든 궁금함을 가지며 매일매일 즐겁게 알아가며 살아가고 있습니다. <br> 이해하기 힘들고 보기 어려운 코드를 작성하지 않기 위해 항상 코드 스멜을 신경쓰며 노력합니다. <br>   주로 백엔드 기술들에 대한 관심이 높으며 다른 사람들과 의견을 함께 나누며 성장하는 것을 좋아합니다. <br> </h5> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  </div> 
     </div>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  </div> 
