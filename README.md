@@ -9,9 +9,6 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  </div> 
     </div>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  </div> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💼 직장 생활 </h2> 
-    <h5 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 올엠소프트 2022.09 ~ 2023.09 백엔드 개발 팀원으로 공공기관의 그룹웨어 솔루션 개발 / SM 업무를 담당 했어요. <br>
-   이든비즈텍 2023.10  ~ 2024.05 백엔드 개발 팀원으로 은행, 제조사 등의 그룹웨어 솔루션 개발 업무를 담당 했어요. </h5>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ 사용 도구 </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;">
 
