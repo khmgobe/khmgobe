@@ -24,7 +24,7 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 연락 수단  </h2> <br> 
-    <div style="text-align: left;"> <a href=https://www.instagram.com/siaheartt/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/siaheartt/"></a>
+    <div style="text-align: left;"> 
          <a href=https://velog.io/@min0127> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@min0127"></a>
          <a href=mailto:khmgobe@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:khmgobe@gmail.com"></a>
           </div> 
